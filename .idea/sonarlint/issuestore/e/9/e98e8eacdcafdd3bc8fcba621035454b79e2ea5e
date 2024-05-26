@@ -1,0 +1,36 @@
+
+m
+java:S11929"PDefine a constant instead of duplicating this literal " does not exist" 3 times.(Şüóú8«•™ŒÇ1
+m
+java:S11929"PDefine a constant instead of duplicating this literal "device with id " 3 times.(Şüóú8¬•™ŒÇ1
+Y
+java:S4973'"<Strings and Boxed types should be compared using "equals()".(¸·‚È8­•™ŒÇ1
+G	java:S106"+Replace this use of System.out by a logger.(Ğ›Æ‘8Æ•™ŒÇ1
+L	java:S106"+Replace this use of System.out by a logger.(¯±Å´üÿÿÿÿ8Æ•™ŒÇ1
+G	java:S106!"+Replace this use of System.out by a logger.(¶–Ä¢8Ç•™ŒÇ1
+L	java:S106("+Replace this use of System.out by a logger.(Ÿ¡¡Ğøÿÿÿÿ8È•™ŒÇ1
+L	java:S1062"+Replace this use of System.out by a logger.(®†ˆÍÿÿÿÿÿ8È•™ŒÇ1
+L	java:S1065"+Replace this use of System.out by a logger.(Ğ»Ìùÿÿÿÿ8È•™ŒÇ1
+G	java:S1069"+Replace this use of System.out by a logger.(Şüóú8É•™ŒÇ1
+L	java:S106="+Replace this use of System.out by a logger.(üÑŸŒúÿÿÿÿ8É•™ŒÇ1
+L	java:S106D"+Replace this use of System.out by a logger.(ôß‡ÿÿÿÿÿ8É•™ŒÇ1
+L	java:S106I"+Replace this use of System.out by a logger.(¿Ü™Àüÿÿÿÿ8Ê•™ŒÇ1
+G	java:S106M"+Replace this use of System.out by a logger.(Âë™Û8Ê•™ŒÇ1
+L	java:S106Q"+Replace this use of System.out by a logger.(Ğ…”Ïüÿÿÿÿ8Ê•™ŒÇ1
+]
+java:S1854c";Remove this useless assignment to local variable "devices".(–ÙÃúÿÿÿÿ8Ê•™ŒÇ1
+X
+java:S1854a";Remove this useless assignment to local variable "device2".(Ãÿ©8Ê•™ŒÇ1
+]
+java:S1854`";Remove this useless assignment to local variable "device1".(œ³Ğàıÿÿÿÿ8Ê•™ŒÇ1
+G	java:S106X"+Replace this use of System.out by a logger.(±é”ø8Ê•™ŒÇ1
+L	java:S106]"+Replace this use of System.out by a logger.(¬×ÙÕÿÿÿÿÿ8Ë•™ŒÇ1
+N
+java:S1481`",Remove this unused "device1" local variable.(œ³Ğàıÿÿÿÿ8Ë•™ŒÇ1
+I
+java:S1481a",Remove this unused "device2" local variable.(Ãÿ©8Ë•™ŒÇ1
+N
+java:S1481c",Remove this unused "devices" local variable.(–ÙÃúÿÿÿÿ8Ë•™ŒÇ1
+I
+java:S1481e",Remove this unused "visited" local variable.(¦ ‚ò8Ë•™ŒÇ1
+X	java:S125h"<This block of commented-out lines of code should be removed.(ÆÙúÜ8Ë•™ŒÇ1
